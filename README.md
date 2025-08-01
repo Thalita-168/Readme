@@ -15,6 +15,6 @@ hello guys
 
 ## Check list
 - [x] Task1
--[ ] task2
+- [ ] task2
 
 
