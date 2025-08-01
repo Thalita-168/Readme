@@ -39,8 +39,19 @@ hello guys
     1. Okay
 
 ## Image
-![Dashboard](image.png)
+![Image](image.png)
 
 ## Link
 CSS Framework [Bootstrap](https://getbootstrap.com/)
 
+
+## Single line Code 
+`print('Hello')`
+
+## Mutiple line code
+```python
+    for i in range(10):
+        print("Hi")
+```
+```html
+   <h1>Hello</h1>
