@@ -38,3 +38,9 @@ hello guys
 1. List1
     1. Okay
 
+## Image
+![Dashboard](image.png)
+
+## Link
+CSS Framework [Bootstrap](https://getbootstrap.com/)
+
